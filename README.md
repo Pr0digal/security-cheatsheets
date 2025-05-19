@@ -1,26 +1,23 @@
 # 🛡️ Security Cheat Sheets
 
-Welcome to the **Security Cheat Sheets** repo — a growing collection of quick-reference guides, blue team playbooks, detection queries, and threat hunting techniques designed for modern security professionals and enthusiasts.
+Welcome to the **Security Cheat Sheets** repo — a curated collection of quick references and practical guides tailored for security engineers and analysts working across identity, logging, and automation domains.
 
 ---
 
-## 📂 What You'll Find Here
+## 📂 What's Inside
 
-This repo is organized into practical categories covering key areas of cybersecurity:
+This repo is focused on fast-access, real-world examples and syntax across core security tooling:
 
-- 🔍 **Threat Hunting**  
-  KQL, Splunk SPL, detection patterns for known attack behaviors.
+- 🔐 **CyberArk**  
+  Handy API usage, automation examples, and platform scripting references for PAM administration.
 
-- 🧰 **Security Tools & Usage**  
-  Common command-line flags, configuration templates, and examples for tools like Wireshark, Nmap, CyberArk, and more.
+- 🔍 **KQL (Kusto Query Language)**  
+  Threat hunting queries, MITRE ATT&CK correlations, and suspicious behavior detection in Microsoft Sentinel.
 
-- 🔐 **Cloud Security**  
-  Reference sheets for Azure security, AWS IAM, logging setup, and cloud attack detection.
+- ⚙️ **PowerShell**  
+  Scripts and functions for automating security operations, AD queries, and bulk changes with a blue team lens.
 
-- 📊 **Logging & SIEM**  
-  Cheat sheets for VMware Aria (Log Insight), Sentinel, and setting up log pipelines for compliance and alerting.
-
-- 🚨 **MITRE ATT&CK Mappings**  
-  Visual and query-based mappings to ATT&CK TTPs for faster correlation and incident response.
+- 📊 **VMware Aria Log Insight (LogInsight)**  
+  Configuration snippets, best practices, and alert rule patterns for log retention, ISO27001 readiness, and SIEM enrichment.
 
 ---
