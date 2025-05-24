@@ -221,5 +221,3 @@ ps aux | awk '{print $11}' | sort | uniq -c | sort -nr | head
 
 ---
 
-> Built for visibility in dark mode ⬛ with command block formatting and section headers.
-> Want a printable PDF version or integration with GitHub Actions for daily checks? Just ask.
